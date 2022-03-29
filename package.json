@@ -1,0 +1,13 @@
+{
+  "name": "electron-jessibuca",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron .",
+    "package": "electron-packager ./"
+  },
+  "dependencies": {
+    "electron": "18.0.0",
+    "electron-packager": "15.4.0"
+  }
+}
